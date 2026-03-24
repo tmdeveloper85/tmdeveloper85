@@ -6,9 +6,8 @@
 ---
 
 ## 📫 Contact
-- 📧 Email: mali2002@devilhunter-fivem.xyz
-- 💼 LinkedIn: MALINOIZXD
-- 🐙 GitHub: MALINOIZXD
+- 📬 Discord: [TM Developer](https://discord.gg/wdw6d6hjqT)
+- 🐙 GitHub: tmdeveloper85
 
 ---
 
