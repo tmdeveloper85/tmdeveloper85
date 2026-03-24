@@ -32,7 +32,7 @@
 
 ### 🗄️ Database & Backend
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
-[HeidiSQL](https://img.shields.io/badge/-HeidiSQL-black?style=for-the-badge)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4E8AB9?style=for-the-badge&logo=databricks&logoColor=white)
 
 
 ---
