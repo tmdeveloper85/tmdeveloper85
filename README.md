@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MALINOIZXD
+# 👋 Hi, I'm TM Developer
 
 🚀 FiveM Developer | Full Stack Developer  
 🎯 Focus: ESX Framework, UI/UX, Custom Systems  
@@ -32,7 +32,8 @@
 
 ### 🗄️ Database & Backend
 ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-darkblue?style=for-the-badge&logo=postgresql)
+[HeidiSQL](https://img.shields.io/badge/-HeidiSQL-black?style=for-the-badge)
+
 
 ---
 
@@ -46,7 +47,7 @@
 - 🔧 Develop custom FiveM systems (ESX)
 - 🎨 Design modern UI (NUI / HTML CSS JS)
 - ⚡ Backend with Node.js + SQL
-- 🧠 Optimize performance & clean code
+- 🧠 Optimize performance & clean code per customer order
 
 ---
 
